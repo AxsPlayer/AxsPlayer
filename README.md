@@ -6,7 +6,7 @@
 
 **About me**
 
-- 😄 I'm the Co-Funder of Naiximing🇨🇳, sharing the best tools with Python, as well as Technical Courses.
+- 😄 I'm the Machine Learning Engineer, sharing the best tools with Python, as well as Technical Courses.
 
 
 <br />
